@@ -1,4 +1,4 @@
-package uebungen.metrics.lcom;
+package demos.metrics.lcom;
 
 public class LcomDemo {
 	private int a;
