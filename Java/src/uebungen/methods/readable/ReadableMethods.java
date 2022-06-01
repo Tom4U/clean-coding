@@ -1,6 +1,10 @@
 package uebungen.methods.readable;
 
+import java.util.Map;
+
 public class ReadableMethods {
+	private Map<String, JaspiraAction> actions;
+
 	/**
 	 * Add a new Action to the manager. Returns true if the action is already
 	 * existant. If the action is already registered, it is NOT replaced.
@@ -51,6 +55,10 @@ public class ReadableMethods {
 			// register this action at its parent
 			toolbarparent.addToolbarChild(current);
 		}
+	}
+
+	private JaspiraAction getAction(String menuparentname) {
+		return null;
 	}
 
 }
