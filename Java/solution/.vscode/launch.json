@@ -1,0 +1,27 @@
+{
+  // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+  // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+  // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Adapter Movable Solution",
+      "request": "launch",
+      "mainClass": "uebungen.adapter.moveable.Driver"
+    },
+    {
+      "type": "java",
+      "name": "Adapter Shape Solution",
+      "request": "launch",
+      "mainClass": "uebungen.adapter.shape.Program"
+    },
+    {
+      "type": "java",
+      "name": "Calculator Solution",
+      "request": "launch",
+      "mainClass": "uebungen.calculator.CalculatorApp",
+      "projectName": "solution"
+    }
+  ]
+}

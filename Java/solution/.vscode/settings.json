@@ -1,0 +1,6 @@
+{
+    "java.checkstyle.configuration": "${workspaceFolder}\\checkstyle.xml",
+    "java.checkstyle.version": "8.39",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "editor.formatOnSave": false
+}
