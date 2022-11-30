@@ -18,9 +18,9 @@ public class ReadableMethods {
     private ActionConfiguration getRegisteredAction(JaspiraAction action) {
         ActionConfiguration actionConfiguration = ActionConfiguration.fromActionAndName(action, action.getName());
 
-        int registeredActionIndex = registeredActions.indexOf(actionConfiguration);
-
         assureActionExists(actionConfiguration);
+
+        int registeredActionIndex = registeredActions.indexOf(actionConfiguration);
 
         return registeredActions.get(registeredActionIndex);
     }
@@ -30,15 +30,17 @@ public class ReadableMethods {
     }
 
     private void assureActionExists(ActionConfiguration action) {
-        if (action.getAction() == null)
+        if (action.getAction() == null) {
             registeredActions.add(action);
+        }
     }
 
     private void addActionToMenu(JaspiraAction action) {
         String menuParentName = action.getActionPropertyString(JaspiraAction.PROPERTY_MENU_PARENT);
 
-        if (menuParentName != null)
+        if (menuParentName != null) {
             addActionToMenuParent(ActionConfiguration.fromActionAndName(action, menuParentName));
+        }
     }
 
     private void addActionToMenuParent(ActionConfiguration configuration) {
@@ -69,8 +71,9 @@ public class ReadableMethods {
     private void addActionToToolbar(JaspiraAction action) {
         String toolbarParentName = action.getActionPropertyString(JaspiraAction.PROPERTY_TOOLBAR_PARENT);
 
-        if (toolbarParentName != null)
+        if (toolbarParentName != null) {
             addToolbarActionByConfiguration(ActionConfiguration.fromActionAndName(action, toolbarParentName));
+        }
     }
 
     private void addToolbarActionByConfiguration(ActionConfiguration configuration) {
