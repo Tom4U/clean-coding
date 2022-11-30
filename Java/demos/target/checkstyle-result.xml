@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\DataClass\Reservierung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.DataClass&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\DataClass\ReservierungLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.DataClass&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="14" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" column="34" severity="error" message="Die magische Zahl &apos;1000&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="16" column="41" severity="error" message="Die magische Zahl &apos;60&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="16" column="46" severity="error" message="Die magische Zahl &apos;60&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="16" column="51" severity="error" message="Die magische Zahl &apos;24&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="16" column="58" severity="error" message="Die magische Zahl &apos;365&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\DataClass\ReservierungsApp.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.DataClass&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="7" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="8" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="21" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="22" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="24" column="34" severity="error" message="Die magische Zahl &apos;1000&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="41" severity="error" message="Die magische Zahl &apos;60&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="46" severity="error" message="Die magische Zahl &apos;60&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="51" severity="error" message="Die magische Zahl &apos;24&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="58" severity="error" message="Die magische Zahl &apos;365&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\DataClass\ReservierungsAppLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.DataClass&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="7" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="8" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="18" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\DataClumps\Reservierung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.DataClumps&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="11" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="12" column="5" severity="error" message="&apos;{&apos; an Position 5 sollte in der vorherigen Zeile stehen." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\DataClumps\ReservierungLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.DataClumps&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="11" column="5" severity="error" message="&apos;{&apos; an Position 5 sollte in der vorherigen Zeile stehen." source="com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck"/>
+<error line="17" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\FeatureEnvy\Auth.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.FeatureEnvy&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\FeatureEnvy\Login.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.FeatureEnvy&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\IncompleteLibraryClass\ExtendedGetraenkeautomat.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.IncompleteLibraryClass&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Zusätzliche Trennung in der Importgruppe vor &apos;cleancode.codesmells.IncompleteLibraryClass.vendor.Getraenk&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" column="63" severity="error" message="Vor &apos;{&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="9" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="14" column="41" severity="error" message="Der Vergleich von String-Literalen sollte mit equals() erfolgen, nicht mit &apos;==&apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.StringLiteralEqualityCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\IncompleteLibraryClass\GetraenkeApp.java">
+<error line="1" severity="error" message="Datei endet nicht mit einem Zeilenumbruch." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.IncompleteLibraryClass&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Zusätzliche Trennung in der Importgruppe vor &apos;cleancode.codesmells.IncompleteLibraryClass.vendor.Getraenk&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="10" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="11" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="17" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="22" column="41" severity="error" message="Der Vergleich von String-Literalen sollte mit equals() erfolgen, nicht mit &apos;==&apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.StringLiteralEqualityCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\IncompleteLibraryClass\GetraenkeAppLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.IncompleteLibraryClass&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="8" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\IncompleteLibraryClass\vendor\Getraenk.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.IncompleteLibraryClass.vendor&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\IncompleteLibraryClass\vendor\Getraenkeautomat.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.IncompleteLibraryClass.vendor&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="6" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="9" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" column="84" severity="error" message="Die magische Zahl &apos;1.20&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="12" column="82" severity="error" message="Die magische Zahl &apos;2.80&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="13" column="77" severity="error" message="Die magische Zahl &apos;1.30&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="14" column="79" severity="error" message="Die magische Zahl &apos;1.50&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="74" severity="error" message="Die magische Zahl &apos;1.10&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\MessageChain\Aufruf.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="4" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\MessageChain\AufrufLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="4" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\MessageChain\Mitglied.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\MessageChain\MitgliedLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\MessageChain\Verein.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\MessageChain\VereinLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\AutoMechaniker.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\AutoMechanikerLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\AutoMechanikerTaetigkeit.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\FeinMechaniker.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\FeinmechanikerTaetigkeit.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\Mechaniker.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\MechanikerLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\Taetigkeit.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ParallelInheritanceHierarchies\TaetigkeitLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ParallelInheritanceHierarchies&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\PrimitiveObsessions\Person.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.PrimitiveObsessions&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="11" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="16" column="32" severity="error" message="Die Variable &apos;adresse&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="16" column="48" severity="error" message="Die Variable &apos;plz&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="16" column="74" severity="error" message="Die Variable &apos;land&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\PrimitiveObsessions\PersonLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.PrimitiveObsessions&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="12" column="33" severity="error" message="Die Variable &apos;adresse&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="16" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="17" column="16" severity="error" message="Das Feld &apos;vorname&apos; muss als private deklariert werden und Zugriffsmethoden haben." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="18" column="16" severity="error" message="Das Feld &apos;nachname&apos; muss als private deklariert werden und Zugriffsmethoden haben." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="26" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="37" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\RefusedBequest\Auto.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.RefusedBequest&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="12" column="30" severity="error" message="Die magische Zahl &apos;30&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="49" severity="error" message="Die Variable &apos;geschwindigkeit&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="18" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="20" column="21" severity="error" message="Die magische Zahl &apos;50.0&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\RefusedBequest\AutoLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.RefusedBequest&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="11" column="30" severity="error" message="Die magische Zahl &apos;30&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="21" severity="error" message="Die magische Zahl &apos;50.0&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\RefusedBequest\Fahrrad.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.RefusedBequest&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="30" severity="error" message="Die magische Zahl &apos;10&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\RefusedBequest\FahrradLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.RefusedBequest&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="45" severity="error" message="Vor &apos;{&apos; fehlt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="6" column="30" severity="error" message="Die magische Zahl &apos;10&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\RefusedBequest\Fahrzeug.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.RefusedBequest&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" column="49" severity="error" message="Die Variable &apos;geschwindigkeit&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ShotgunSurgery\Konto.java">
+<error line="1" severity="error" message="Datei endet nicht mit einem Zeilenumbruch." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ShotgunSurgery&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="&apos;ctor def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="8" severity="error" message="&apos;ctor def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" column="33" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="17" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="26" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="40" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="27" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="34" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="34" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="35" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" column="33" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="36" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="37" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ShotgunSurgery\KontoLoesung.java">
+<error line="1" severity="error" message="Datei endet nicht mit einem Zeilenumbruch." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ShotgunSurgery&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="&apos;ctor def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="8" severity="error" message="&apos;ctor def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="24" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="27" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="31" column="15" severity="error" message="&apos;try&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" column="22" severity="error" message="Das Unterelement von &apos;try&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" column="15" severity="error" message="&apos;try rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" column="17" severity="error" message="Die Exception &apos;Exception&apos; darf nicht abgefangen werden." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="34" column="22" severity="error" message="Das Unterelement von &apos;catch&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" column="15" severity="error" message="&apos;catch rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="36" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" column="12" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 11 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="40" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="42" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" column="44" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" column="22" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" column="29" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 28 (erwartet: 16)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="48" column="22" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="49" column="29" severity="error" message="Das Unterelement von &apos;else&apos; hat eine unerwartete Einrückungstiefe von 28 (erwartet: 16)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="50" column="22" severity="error" message="&apos;else rcurly&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="51" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\ShotgunSurgery\ShotgunSurgery.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.ShotgunSurgery&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="4" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="5" column="71" severity="error" message="Die magische Zahl &apos;1000&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="23" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\falsch\Sortierer.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.falsch&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\falsch\SortierTypEins.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.falsch&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\falsch\SortierTypZwei.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.falsch&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\okay\ValueSwitch.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.okay&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\richtig\Sortierer.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.richtig&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\richtig\SortierTyp.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.richtig&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\richtig\SortierTypEins.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.richtig&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\richtig\SortierTypZwei.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.richtig&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\demos\codesmells\SwitchCase\richtig\Sortierung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;cleancode.codesmells.SwitchCase.richtig&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="7" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\moveable\challenge\AstonMartin.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.moveable.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="16" severity="error" message="Die magische Zahl &apos;220&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\moveable\challenge\Driver.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.moveable.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="4" column="40" severity="error" message="Array-Klammern an ungültiger Position." source="com.puppycrawl.tools.checkstyle.checks.ArrayTypeStyleCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\moveable\challenge\Movable.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.moveable.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\moveable\loesung\AstonMartin.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.moveable.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\moveable\loesung\Driver.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.moveable.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\moveable\loesung\Movable.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.moveable.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\moveable\loesung\MovableKmphAdapter.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.moveable.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\challenge\Line.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\challenge\Program.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="5" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="6" column="27" severity="error" message="Nach &apos;{&apos; folgt ein Leerzeichen." source="com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceAfterCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="8" column="9" severity="error" message="Jede Variablendeklaration muss in einer eigenen Anweisung erfolgen." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="8" column="18" severity="error" message="Die magische Zahl &apos;10&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="8" column="27" severity="error" message="Die magische Zahl &apos;20&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="9" column="9" severity="error" message="Jede Variablendeklaration muss in einer eigenen Anweisung erfolgen." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="9" column="18" severity="error" message="Die magische Zahl &apos;30&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="9" column="27" severity="error" message="Die magische Zahl &apos;60&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="10" column="9" severity="error" message="Jede Variablendeklaration muss in einer eigenen Anweisung erfolgen." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="10" column="21" severity="error" message="Die magische Zahl &apos;40&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="10" column="34" severity="error" message="Die magische Zahl &apos;40&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="11" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\challenge\Rectangle.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\loesung\Line.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\loesung\LineAdapter.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\loesung\Program.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\loesung\Rectangle.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\loesung\RectangleAdapter.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\adapter\shape\loesung\Shape.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.adapter.shape.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\MessageChain\Aufruf.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="4" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\MessageChain\AufrufLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="4" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\MessageChain\Mitglied.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\MessageChain\MitgliedLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\MessageChain\Verein.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\MessageChain\VereinLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.MessageChain&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\PrimitiveObsession\Person.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.PrimitiveObsession&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="11" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="16" column="32" severity="error" message="Die Variable &apos;adresse&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="16" column="48" severity="error" message="Die Variable &apos;plz&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="16" column="74" severity="error" message="Die Variable &apos;land&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\PrimitiveObsession\PersonLoesung.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.PrimitiveObsession&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="12" column="33" severity="error" message="Die Variable &apos;adresse&apos; verbirgt ein Feld." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="16" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="17" column="16" severity="error" message="Das Feld &apos;vorname&apos; muss als private deklariert werden und Zugriffsmethoden haben." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="18" column="16" severity="error" message="Das Feld &apos;nachname&apos; muss als private deklariert werden und Zugriffsmethoden haben." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="26" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="37" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\ShotgunSurgery\Konto.java">
+<error line="1" severity="error" message="Datei endet nicht mit einem Zeilenumbruch." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.ShotgunSurgery&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="&apos;ctor def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="8" severity="error" message="&apos;ctor def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="16" column="33" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="17" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="20" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="26" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="40" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="27" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="34" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="34" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="35" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" column="33" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="36" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="37" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\ShotgunSurgery\KontoLoesung.java">
+<error line="1" severity="error" message="Datei endet nicht mit einem Zeilenumbruch." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.ShotgunSurgery&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="8" severity="error" message="&apos;member def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="&apos;ctor def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="15" severity="error" message="Das Unterelement von &apos;ctor def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="8" severity="error" message="&apos;ctor def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="18" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="24" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="27" column="15" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="28" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="30" column="8" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="31" column="15" severity="error" message="&apos;try&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="32" column="22" severity="error" message="Das Unterelement von &apos;try&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" column="15" severity="error" message="&apos;try rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" column="17" severity="error" message="Die Exception &apos;Exception&apos; darf nicht abgefangen werden." source="com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck"/>
+<error line="34" column="22" severity="error" message="Das Unterelement von &apos;catch&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="35" column="15" severity="error" message="&apos;catch rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="36" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="38" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="39" column="12" severity="error" message="Das Unterelement von &apos;method def&apos; hat eine unerwartete Einrückungstiefe von 11 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="40" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="42" column="8" severity="error" message="&apos;method def modifier&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" column="15" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="43" column="44" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="22" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="46" column="22" severity="error" message="&apos;if&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="47" column="29" severity="error" message="Das Unterelement von &apos;if&apos; hat eine unerwartete Einrückungstiefe von 28 (erwartet: 16)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="48" column="22" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="49" column="29" severity="error" message="Das Unterelement von &apos;else&apos; hat eine unerwartete Einrückungstiefe von 28 (erwartet: 16)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="50" column="22" severity="error" message="&apos;else rcurly&apos; hat eine unerwartete Einrückungstiefe von 21 (erwartet: 12)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="51" column="15" severity="error" message="&apos;if rcurly&apos; hat eine unerwartete Einrückungstiefe von 14 (erwartet: 8)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="52" column="8" severity="error" message="&apos;method def rcurly&apos; hat eine unerwartete Einrückungstiefe von 7 (erwartet: 4)." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\codesmells\ShotgunSurgery\ShotgunSurgery.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.codesmells.ShotgunSurgery&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="Hilfsklassen sollten keinen Standard-Konstruktur und keinen als public deklarierten Konstruktor haben." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="4" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="5" column="71" severity="error" message="Die magische Zahl &apos;1000&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="23" severity="error" message="Die magische Zahl &apos;500&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\LSP\LspTest.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.LSP&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Falsche Reihenfolge des Imports von &apos;org.junit.Test&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="7" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="26" severity="error" message="Das Feld &apos;width&apos; muss als private deklariert werden und Zugriffsmethoden haben." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="11" column="26" severity="error" message="Das Feld &apos;height&apos; muss als private deklariert werden und Zugriffsmethoden haben." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="25" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="26" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="39" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="41" column="9" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="42" column="24" severity="error" message="Die magische Zahl &apos;5&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="43" column="25" severity="error" message="Die magische Zahl &apos;4&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="29" severity="error" message="Die magische Zahl &apos;20&apos; sollte als Konstante definiert werden." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\methoden\challenge\JaspiraAction.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.methoden.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="4" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\methoden\challenge\ReadableMethods.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.methoden.challenge&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\methoden\loesung\ActionConfiguration.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.methoden.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\methoden\loesung\JaspiraAction.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.methoden.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="4" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="C:\9033\demos\src\main\java\tom4u\cleancode\uebungen\methoden\loesung\ReadableMethods.java">
+<error line="1" column="9" severity="error" message="Der Bezeichner &apos;tom4u.cleancode.uebungen.methoden.loesung&apos; entspricht nicht dem Muster &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="4" column="1" severity="error" message="&apos;CLASS_DEF&apos; sollte durch eine Leerzeile von der vorherigen Zeile getrennt sein." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="4" column="1" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" column="5" severity="error" message="Es fehlt ein Javadoc-Kommentar." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+</checkstyle>

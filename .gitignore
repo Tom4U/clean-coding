@@ -24,3 +24,6 @@ hs_err_pid*
 
 # Eclipse project files
 **/.metadata
+
+# Sonar
+.scannerwork
