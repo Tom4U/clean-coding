@@ -15,7 +15,7 @@ public class MealDemo {
          * System.out.println("Meal Total");
          * vegMeal.getCost();
          *
-         * Meal meatMeal = mb.prepareVegMeal();
+         * Meal meatMeal = mb.prepareMeatMeal();
          *
          * System.out.println("Meat Meal");
          * meatMeal.showItems();
