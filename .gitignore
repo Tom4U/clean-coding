@@ -27,3 +27,5 @@ hs_err_pid*
 
 # Sonar
 .scannerwork
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
